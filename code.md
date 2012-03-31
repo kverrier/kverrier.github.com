@@ -34,5 +34,5 @@ _thread-based concurrent web proxy with caching (C)_
 
 ### Algorithms
 
--   [Seam Carver](#)
-_content-aware image resizing algorithm (Java)_
+-   [Seam Carver](https://github.com/kverrier/Seam-Carver)
+_content-aware image resizing dynamic programming algorithm (Java)_
