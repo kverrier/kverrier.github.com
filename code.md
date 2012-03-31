@@ -15,13 +15,13 @@ group: navigation
 -   [Loop-O-Matic](https://github.com/kverrier/Loop-o-matic-Interactive-Music-System)
 _interactive MIDI loop controller done in Java_ 
 -   [TubesCreamer](https://github.com/kverrier/TubesCreamer)
-_Audicity audio plugin emulating Ibanez Tube Screamer Overdrive Pedal_
+_Audicity audio plugin emulating Ibanez Tube Screamer overdrive pedal_
 
 ---
 
 ### Web
 -   [Combo Trainer](https://github.com/kverrier/trainer)
-_web application for training timing of fighting game move sequences done in Ruby on
+_web application to player's timing accuracy for fighting game move sequences done in Ruby on
 Rails_
     
 ---
