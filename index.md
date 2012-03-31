@@ -6,9 +6,10 @@ tagline: Digital Portfolio
 {% include JB/setup %}
 
 
-###   [code](code.html) _Selected Projects_
+###   [code](code.html) _Selected Work_
 
 ---
 
 ###  [résumé](resume.html) _Background and Skillsets_
+
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title : code
-tagline: Selected Projects
+tagline: Selected Work
 header : Post Archive
 group: navigation
 ---
