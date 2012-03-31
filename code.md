@@ -30,3 +30,9 @@ Rails)_
 -   [Web Proxy](https://github.com/kverrier/Web-Proxy)
 _thread-based concurrent web proxy with caching (C)_
 
+---
+
+### Algorithms
+
+-   [Seam Carver](#)
+_content-aware image resizing algorithm (Java)_
