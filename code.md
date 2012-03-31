@@ -1,7 +1,7 @@
 ---
 layout: page
 title : code
-tagline: Developer Portfolio
+tagline: Selected Projects
 header : Post Archive
 group: navigation
 ---

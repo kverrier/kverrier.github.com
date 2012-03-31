@@ -1,7 +1,7 @@
 ---
 layout: page
 title : résumé
-tagline: Curriculum Vitae
+tagline: Background and Skillsets
 header : Post Archive
 group: navigation
 ---
