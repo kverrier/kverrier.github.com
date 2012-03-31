@@ -1,19 +1,17 @@
 ---
-layout: page
-title: Welcome
-tagline: 
+layout: default
+title:  Kyle Verrier
+tagline: Developer Portfolio
 ---
 {% include JB/setup %}
 
-On this site is a collection of my work.
+#   Digital Portfolio
+---
 
-Here are the main areas of interest:
 
--   [Selected Projects Code](code.html)
--   [My Résumé](resume.html)
+##   [code](code.html) _Selected Development Projects_
 
-These can also be access through the top navigation bar.
+---
 
-Enjoy!
-
+##  [résumé](resume.html) _Background and Skillsets_
 
