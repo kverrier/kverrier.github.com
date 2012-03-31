@@ -13,7 +13,7 @@ group: navigation
 
 ### Music Technology
 -   [Loop-O-Matic](https://github.com/kverrier/Loop-o-matic-Interactive-Music-System)
-_interactive MIDI loop controller done in Java_ 
+_interactive MIDI loop controller (Java)_ 
 -   [TubesCreamer](https://github.com/kverrier/TubesCreamer)
 _Audicity audio plugin emulating Ibanez Tube Screamer overdrive pedal_
 
@@ -21,12 +21,12 @@ _Audicity audio plugin emulating Ibanez Tube Screamer overdrive pedal_
 
 ### Web
 -   [Combo Trainer](https://github.com/kverrier/trainer)
-_web application to player's timing accuracy for fighting game move sequences done in Ruby on
-Rails_
+_web application to player's timing accuracy for fighting game move sequences (Ruby on
+Rails)_
     
 ---
 
 ### Systems
 -   [Web Proxy](https://github.com/kverrier/Web-Proxy)
-_thread-based concurrent web proxy with caching done in C_
+_thread-based concurrent web proxy with caching (C)_
 
