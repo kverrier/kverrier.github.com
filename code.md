@@ -20,7 +20,7 @@ _Audicity audio plugin emulating Ibanez Tube Screamer overdrive pedal_
 ---
 
 ### Web
--   [Combo Trainer](https://github.com/kverrier/trainer)
+-   [Combo Trainer](https://github.com/kverrier/Combo-Trainer)
 _web application to player's timing accuracy for fighting game move sequences (Ruby on
 Rails)_
     
