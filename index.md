@@ -1,18 +1,16 @@
 ---
-layout: page
+layout: index 
 title: developer
 tagline: Digital Portfolio
 ---
 {% include JB/setup %}
 
-![alt](KV-black.jpg)
+<!-- 
+<div style="font-size: 24px">
+	<i class="icon-envelope"></i> 
+</div>
+ -->
 
----
 
-###   [code](code.html) _Selected Work_
-
----
-
-###  [résumé](resume.html) _Background and Skillsets_
 
 

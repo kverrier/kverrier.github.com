@@ -1,0 +1,19 @@
+/*.brand-image {
+      padding: 4px 0px 0px 0px;
+
+}
+
+
+img.brand-image {
+    -webkit-border-radius: 0px;
+       -moz-border-radius: 0px;
+            border-radius: 0px;
+}
+*/
+
+.brand-image
+{
+  background: url(images/KV-black.jpeg) no-repeat left center;
+  height: 20px;
+  width: 100px;
+}

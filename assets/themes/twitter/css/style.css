@@ -1,6 +1,8 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+  /*background-color: white;*/
+
 }
 .navbar {
   margin-bottom: 0;
@@ -28,6 +30,7 @@ html, body {
 /* Page header tweaks */
 .page-header {
   background-color: #f5f5f5;
+  /*background-color: #fff;*/
   padding: 20px 20px 10px;
   margin: -20px -20px 20px;
 }
@@ -68,4 +71,65 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+/*
+.navbar .nav > li > a.brand-image {
+      padding: 4px 0px 0px 0px;
+}
+.navbar .nav > li > a > img.brand-image {
+		width = 50px;
+		height = 50px;
+    -webkit-border-radius: 0px;
+       -moz-border-radius: 0px;
+            border-radius: 0px;
+}
+*/
+
+
+.brand {
+    margin-bottom: -10px;
+}
+
+.brand#logo {
+  background: url(/logo.png) no-repeat left center;
+  padding-top: 30px;
+  padding-left: 10px;
+  margin-bottom: -10px;
+  height: 10px;
+  width: 70px;
+}
+
+.nav i {
+  font-size: 24px;
+  padding-top: 20px;
+  background: 1px solid black;
+}
+
+#home-header {
+  text-align: center;
+}
+
+#big-logo {
+  width: 30%;
+  height: 30%;
+}
+
+#section-icons {
+  text-align:center;
+}
+
+#section-icons i {
+  font-size: 50px;
+}
+
+#section-icons h3 {
+  text-align:center;
+}
+
+.hero-unit {
+  /*padding-top: 30px;*/
+  padding-bottom: 20px;
+}
+
+
+
