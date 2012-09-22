@@ -139,17 +139,24 @@ html, body {
   /*font-size: 24px;*/
 }
 
-
-
-/*
-#mail-to{
-  padding: 0;
+.navbar .nav > li > a:hover {
+  color: red;
 }
 
-#github{
-  padding: 0;
+a:hover {
+  color: red;
+  font-style: red;
+}
+
+/*a:hover h3 {
+  color: red;
+  font-style: red;
 }
 */
+.nav  {
+
+}
+
 #nav-icon-github {
   padding:0;
 }

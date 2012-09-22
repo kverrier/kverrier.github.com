@@ -37,8 +37,6 @@ _web application to player's timing accuracy for fighting game move sequences (R
 	</li>
 </ul>
 
-	
-
 
 ### Algorithms
 <ul>
