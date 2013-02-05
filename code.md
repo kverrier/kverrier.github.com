@@ -1,4 +1,4 @@
----
+ggj---
 layout: page
 title : code
 tagline: Selected Work
@@ -31,7 +31,7 @@ _web application to player's timing accuracy for fighting game move sequences (R
 <ul>
 	<li>
 		<p> 
-			<a href="https://github.com/kverrier/Web-Proxy)"> Web Proxy </a>
+			<a href="https://github.com/kverrier/Web-Proxy"> Web Proxy </a>
 			<em> thread-based concurrent web proxy with caching (C) </em>
 		</p>
 	</li>
